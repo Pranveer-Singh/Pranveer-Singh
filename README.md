@@ -1,93 +1,100 @@
-PRANVEER SINGH
+Here’s your resume reformatted into a clean, legible **text-based layout** that's easy to copy, email, or paste into a LinkedIn profile or job portal:
 
-Saint John, NB E2L 4L5
-(506) 650-8334
-SinghPranveer@outlook.com
+---
 
-Skills
+**Pranveer Singh**  
+📍 Montreal | 📞 506-650-8334 | ✉️ SinghPranveer@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pranveersingh1999/)
 
-Technical skills:
+---
 
-SQL, Python, C++, Java, JavaScript.
-Data Analysis, Visualization, Scraping, Modeling and Warehousing.
-Exceptional in software design using object-oriented programming in Agile/Scrum Methodologies.
+### **Summary**  
+Business Systems Developer/Administrator with 5 years of experience managing, developing, and supporting LIMS, SQL databases, business applications, and AI-driven solutions at RPC. Skilled in software development, IT infrastructure support, and security policy implementation, with a strong background in SQL, Python, Java, JavaScript, and data analysis. Experienced in optimizing business processes through technology, integrating AI and automation tools to streamline workflows, and maintaining server and network systems. Proven ability to collaborate with cross-functional teams to deliver scalable solutions. Passionate about solving business challenges through innovative, intelligent systems and continuously expanding technical expertise.
 
-Experienced with Amazon Web Services, API Design and Development
-Adaptable, patient and a team player.
-Independent, able to work with little supervision, individually as well as in a team.
-Creative: Video and music production, graphic design.
+---
 
-Education
+### **Experience**
 
-05/2022
-July 2022
-University of New Brunswick, Saint John  Saint John, Canada
-Bachelor of Science Computer Science
+**Business Systems Developer/Administrator**  
+*Research & Productivity Council (RPC) — Fredericton*  
+**September 2022 – Present**  
+🔗 https://rpc.ca  
+- Administered, developed, and supported LabWare LIMS, a configurable laboratory information management system used to automate workflows, track samples, and ensure compliance.  
+- Managed and maintained SQL Server databases to meet business and technical needs.  
+- Supported IT infrastructure, including servers, networks, and user desktop configurations.  
+- Implemented IT security policies and followed guidance from senior developers and the IT Director.  
+- Participated in QMS processes and reported health and safety concerns.
 
-Minor in Business
-Cumulative GPA: 3.0
-Member of SEAC, a student council looking after student welfare, academic support and grievances.
-Transferred from Manipal University, India after 2 years.
+**Freelance Developer**  
+*Self-Employed — Saint John*  
+**January 2019 – Present**  
+- Developed an AI-assisted online quiz management system using JavaScript and SQL, allowing professors to schedule and auto-grade quizzes.  
+- Modernized legacy codebases, improving performance and enabling AI-based analytics and reporting.  
+- Collaborated through full software development lifecycle — from requirements to production — implementing automation and intelligent features.  
+- Conducted performance analysis, system design, development, and testing, applying AI-driven optimizations.
 
-06/2022
-Coursera Canada
-Google Data Analytics Certification Data Analytics
+**Computer Science & Math Tutor**  
+*University of New Brunswick — Saint John*  
+**January 2020 – May 2022**  
+🔗 https://www.unb.ca/sas/academic-success/tutoring-fr.html  
+- Tutored ~15 students weekly in subjects like SQL, Python, C++, Java, JavaScript, Calculus, and Statistics.  
+- Created custom lesson plans to address individual learning needs.  
+- Supported students with assignments, concepts, and exam prep both in-person and online.  
+- Simplified complex math and CS topics through clear, engaging explanations.
 
-8 separate courses with individual certifications curated by Google
+---
 
-followed by a project in real-world data analytics scenarios.
-These courses cover topics such as: Data-Driven Decisions, Process Data from Dirty to Clean, Data Analysis with R Programming, Share Data with Visualization, etc.
+### **Education**
 
-May 2022
-Manipal University Manipal, India, India
-Bachelor of Science Computer Science
+**Bachelor of Science: Computer Science**  
+*University of New Brunswick – Saint John*  
+📅 Graduated: May 2022 | GPA: 3.2  
+- Minor in Business  
+- Member of SEAC, student council for welfare, academic support, and grievances  
+🔗 https://www.unb.ca/
 
-Transfer GPA: 3.0
+**Google Data Analytics Professional Certificate**  
+*Coursera – Google*  
+📅 Completed: June 2022  
+- Topics: Data-Driven Decisions, Data Cleaning, Analysis with R, Visualization  
+🔗 https://www.coursera.org/professional-certificates/google-data-analytics
 
-Professional Summary
+**Machine Learning Specialization**  
+*Coursera – Stanford (Andrew Ng)*  
+📅 Completed: March 2025  
+- Topics: Supervised/Unsupervised Learning, Neural Networks, Python, scikit-learn, TensorFlow  
+🔗 Coursera
 
-A recent Computer Science graduate with a minor in business with 2+ years of experience in data analysis, Software and API development. Eager to learn new technologies and adapt to business needs by expanding my knowledge and skills in a collaborative environment to develop quality software solutions that address and solve business problems.
+---
 
-Work History
+### **Skills**
 
-January 2022 - Current
-University of New Brunswick Saint John, CA
-Data Research and Academic Advising
+**SQL Database Management:**  
+database administration, query optimization, performance tuning, indexing, stored procedures, data migration, backup and recovery  
 
-Developed and administered Surveys regarding the effectiveness and success of the existing Advising system (Online and Offline).
-Used R, Python and SQL based databases to clean, sort, and correct data.
-Identified and documented detailed business rules and use cases based on requirements analysis.
-Created statistical models to highlight strengths and weaknesses.
-Compiled proposals from the insights to improve student and system satisfaction.
+**Programming Languages:**  
+Python, Java, JavaScript, C++, BASIC  
 
-January 2019 - Current
-Self-Employed Saint John, CA
-Freelance Developer
+**Software Development:**  
+API development, full-stack development, Agile/Scrum methodologies, legacy code modernization, system design, software testing  
 
-Developed an online quiz management system in JavaScript and SQL which allows professors to create and schedule quizzes, as well as allows students to attempt them. It also grades the attempt automatically.
-Updated Legacy code bases to modern development standards, improving functionality.
-Collaborated on stages of systems development lifecycle from requirement gathering to production releases.
-Participated in performance analysis, design, development and testing.
+**IT Infrastructure & Security:**  
+network troubleshooting, IT security policies, system configuration, role-based access control (RBAC), disaster recovery planning  
 
-January 2020 - May 2022
-University of New Brunswick Saint John, CA
-Computer Science & Math Tutor
+---
 
-Tutored 15~ students per week in private sessions using detailed lesson plans.
-Helped fellow students better understand Mathematic and Scientific concepts and perform better in their courses. These included SQL, Python, C++, Java, JavaScript, etc.
-Taught students struggling with Calculus and Statistical math.
-Worked with students in classrooms or home environments to provide educational support.
+### **Languages**  
+- English (IELTS: 8.5)  
+- Hindi/Urdu  
 
-May 2018 - December 2018
-Humonics Global Pvt Ltd New Delhi, IN
-Intern
+---
 
-Worked on a Python based “IT Chat Bot” for use within the business.
-It automated majority of the complaints the IT department got by employees such as fixing Login errors, authentication and requesting repairs
-Designed presentations for easy implementation and understanding of the bot.
-Maintained network hardware and software, directed network security measures and monitored networks to maintain availability for system users.
+### **References**  
+**Matt Ashfield**  
+Director, IT — Research & Productivity Council  
+📞 506-470-8562  
+🔗 https://rpc.ca/
 
-<!---
-Pranveer-Singh/Pranveer-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Let me know if you’d like a clean PDF or DOC version too!
